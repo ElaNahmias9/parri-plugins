@@ -1,0 +1,12 @@
+{
+  "name": "parri-academic",
+  "version": "0.3.1",
+  "description": "Course-scoped academic tutoring using authoritative Parri state and append-only evidence.",
+  "author": {
+    "name": "Parri"
+  },
+  "homepage": "https://parr-seven.vercel.app",
+  "displayName": "Parri Academic",
+  "repository": "https://github.com/ElaNahmias9/parri-plugins",
+  "license": "MIT"
+}

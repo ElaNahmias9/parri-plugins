@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "parri-academic": {
+      "type": "http",
+      "url": "https://parr-seven.vercel.app/mcp"
+    }
+  }
+}
